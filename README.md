@@ -6,29 +6,29 @@ Java (Spring Boot, Apache Camel)
 Google Cloud Platform
 Angular (and other frontend technologies)
 [Add any other relevant technologies]
-🔧 Tools of the Trade:
 
+🔧 Tools of the Trade:
 IntelliJ IDEA is my coding sanctuary.
 Git is my version control muse.
 I deploy with confidence using Jenkins.
+
 🌐 Web Wizardry:
-
 While I predominantly dance with backend technologies, I'm no stranger to the frontend magic. Angular is my partner in crime.
-💬 Let's Talk Code:
 
+💬 Let's Talk Code:
 Fluent in Java, I speak the language of scalability and efficiency.
 I code for coffee, debug for survival, and test for victory.
+
 📚 Learning Never Ends:
-
 In the ever-evolving world of tech, I'm a perpetual student. Learning, adapting, and evolving are my constants.
+
 🌟 Open Source Enthusiast:
-
 A believer in the power of community-driven development, I actively contribute to open source projects.
+
 👨‍💻 By Day:
-
 I craft elegant solutions as a Java Developer in the Google Cloud and Spring ecosystem.
-🎸 Fun Fact:
 
+🎸 Fun Fact:
 When not immersed in code, you might find me strumming a guitar or exploring the beautiful landscapes of Mexico.
 
 <!---
